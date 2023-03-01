@@ -1,0 +1,8 @@
+disabled_rules:
+  - nesting
+
+cyclomatic_complexity:
+  ignores_case_statements: true
+line_length: 200 
+identifier_name: 
+  min_length: 2
